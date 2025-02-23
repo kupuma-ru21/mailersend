@@ -1,5 +1,4 @@
-// REF: https://www.mailersend.com/help/getting-started
-// REF: https://www.mailersend.com/blog/send-email-nodejs#sending-emails-with-nodemailer
+// REF: Follow instructions, https://www.mailersend.com/blog/send-email-nodejs#api-or-nodemailer-smtp
 
 import "dotenv/config";
 import nodemailer from "nodemailer";
